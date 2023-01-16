@@ -2,7 +2,7 @@
 This repository for analysis code of Li et al (https://www.biorxiv.org/content/10.1101/2021.08.12.456090v1).
 
 ## software version:
-HiC-Pro 2.10.0, Juicebox 1.9.0, Juicetools 1.11.04, Homer 4.11.1, Prism 7.0, Python 3.7, R 3.6.1, IGV v2.8.0, WashU v53.3.2, trim_galore v0.4.4_dev, bowtie2 v2.3.4, Picard v2.20.2, MACS2 v2.1.2, deeptools v3.2.0, FastQC v0.11.7, bedtools v2.28.0, Hisat2 v2.1.0, HTseq v0.9.1, hichipper 0.7.7. 
+HiC-Pro 2.10.0, Juicebox 1.9.0, Juicetools 1.11.04, Homer 4.11.1, Python 3.7, R 3.6.1, IGV v2.8.0, WashU v53.3.2, trim_galore v0.4.4_dev, bowtie2 v2.3.4, Picard v2.20.2, MACS2 v2.1.2, deeptools v3.2.0, FastQC v0.11.7, bedtools v2.28.0, Hisat2 v2.1.0, HTseq v0.9.1, hichipper 0.7.7., DESeq2 1.38.1, clusterProfiler 4.6.0, ChIPseeker 1.34.1, Nuctools v3.0, CAM 1.0.0, ggplot2 3.4.0, diffbind 3.0.3, pairsqc 0.2.3, coolpup.py 0.9.5, samtools 1.9, NIS Elements software (Ver. 2.1),  FACS Diva (Ver. 7),  FlowJo (Ver. 9). 
 If you have any questions about code, please let me know in ISSUES(https://github.com/LeeSlab/Code-for-Li-et-al/issues).
 
 ## Software links:
