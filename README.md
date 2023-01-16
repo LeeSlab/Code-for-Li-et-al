@@ -25,4 +25,4 @@ If you have any questions about code, please let me know in ISSUES(https://githu
 6. IdentifyDifferentCompartment: RNA-seq expression (**Extend Data Fig. 2d**), H3K27ac (**Extend Data Fig. 2e**)and H3K9me3 (**Extend Data Fig. 2f**) in different compartments.
 7. InsulationFiles: **Extend Data Fig. 4d**
 8. ExtendDataFig.6f_diffType_boundary: **Extend Data Fig.6f**
-9. ExtendDataFig.6i_diffType_TAD_output: **Extend Data Fig.6i**
+9. ExtendDataFig.6i_TADscore: **Extend Data Fig.6i**
