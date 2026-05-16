@@ -1,5 +1,7 @@
-# Analysis code for Li et al
-This repository for analysis code of Li et al (https://www.biorxiv.org/content/10.1101/2021.08.12.456090v1).
+# Analysis code
+This repository for analysis code of paper publised in **nature structural & molecular biology**. (https://www.nature.com/articles/s41594-023-00939-3).
+        
+And if you have any question, feel free to contact Fan Wu (fanwu@pku.edu.cn) and Hsiang-Ying Lee (slee@pku.edu.cn).
 
 ## software version:
 HiC-Pro 2.10.0, Juicebox 1.9.0, Juicetools 1.11.04, Homer 4.11.1, Python 3.7, R 3.6.1, IGV v2.8.0, WashU v53.3.2, trim_galore v0.4.4_dev, bowtie2 v2.3.4, Picard v2.20.2, MACS2 v2.1.2, deeptools v3.2.0, FastQC v0.11.7, bedtools v2.28.0, Hisat2 v2.1.0, HTseq v0.9.1, hichipper 0.7.7., DESeq2 1.38.1, clusterProfiler 4.6.0, ChIPseeker 1.34.1, Nuctools v3.0, CAM 1.0.0, ggplot2 3.4.0, diffbind 3.0.3, pairsqc 0.2.3, coolpup.py 0.9.5, samtools 1.9, NIS Elements software (Ver. 2.1),  FACS Diva (Ver. 7),  FlowJo (Ver. 9). 
@@ -26,3 +28,7 @@ If you have any questions about code, please let me know in ISSUES(https://githu
 7. InsulationFiles: **Extend Data Fig. 4d**
 8. ExtendDataFig.6f_diffType_boundary: **Extend Data Fig.6f**
 9. ExtendDataFig.6i_TADscore: **Extend Data Fig.6i**
+
+
+## Cite
+Li, D., Wu, F., Zhou, S. et al. Heterochromatin rewiring and domain disruption-mediated chromatin compaction during erythropoiesis. Nat Struct Mol Biol 30, 463–474 (2023).
